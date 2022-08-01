@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Tashaun!!! and I enjoy researching the power of automation and
+              Hello! My name is Tashaunnnn and I enjoy researching the power of automation and
               developing technologies. My interest in Artificial Intelligence started back in 2016
               when I learned about lots of new developing technologies that are being used to help
               the world - There are so many unique use-cases that makes the field so compelling!
